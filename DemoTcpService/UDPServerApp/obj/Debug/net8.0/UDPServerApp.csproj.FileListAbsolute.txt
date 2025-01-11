@@ -1,0 +1,14 @@
+D:\KyHoc\K7\PRN222\DemoTcpService\UDPServerApp\bin\Debug\net8.0\UDPServerApp.exe
+D:\KyHoc\K7\PRN222\DemoTcpService\UDPServerApp\bin\Debug\net8.0\UDPServerApp.deps.json
+D:\KyHoc\K7\PRN222\DemoTcpService\UDPServerApp\bin\Debug\net8.0\UDPServerApp.runtimeconfig.json
+D:\KyHoc\K7\PRN222\DemoTcpService\UDPServerApp\bin\Debug\net8.0\UDPServerApp.dll
+D:\KyHoc\K7\PRN222\DemoTcpService\UDPServerApp\bin\Debug\net8.0\UDPServerApp.pdb
+D:\KyHoc\K7\PRN222\DemoTcpService\UDPServerApp\obj\Debug\net8.0\UDPServerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\KyHoc\K7\PRN222\DemoTcpService\UDPServerApp\obj\Debug\net8.0\UDPServerApp.AssemblyInfoInputs.cache
+D:\KyHoc\K7\PRN222\DemoTcpService\UDPServerApp\obj\Debug\net8.0\UDPServerApp.AssemblyInfo.cs
+D:\KyHoc\K7\PRN222\DemoTcpService\UDPServerApp\obj\Debug\net8.0\UDPServerApp.csproj.CoreCompileInputs.cache
+D:\KyHoc\K7\PRN222\DemoTcpService\UDPServerApp\obj\Debug\net8.0\UDPServerApp.dll
+D:\KyHoc\K7\PRN222\DemoTcpService\UDPServerApp\obj\Debug\net8.0\refint\UDPServerApp.dll
+D:\KyHoc\K7\PRN222\DemoTcpService\UDPServerApp\obj\Debug\net8.0\UDPServerApp.pdb
+D:\KyHoc\K7\PRN222\DemoTcpService\UDPServerApp\obj\Debug\net8.0\UDPServerApp.genruntimeconfig.cache
+D:\KyHoc\K7\PRN222\DemoTcpService\UDPServerApp\obj\Debug\net8.0\ref\UDPServerApp.dll
