@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KyHoc\\K7\\PRN222\\DemoTcpService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32057A5E-5A8D-494F-999E-F3C56544B4F7}|Lab2-WpfApp\\Lab2-WpfApp.csproj|d:\\kyhoc\\k7\\prn222\\demotcpservice\\lab2-wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32057A5E-5A8D-494F-999E-F3C56544B4F7}|Lab2-WpfApp\\Lab2-WpfApp.csproj|solutionrelative:lab2-wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32057A5E-5A8D-494F-999E-F3C56544B4F7}|Lab2-WpfApp\\Lab2-WpfApp.csproj|d:\\kyhoc\\k7\\prn222\\demotcpservice\\lab2-wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32057A5E-5A8D-494F-999E-F3C56544B4F7}|Lab2-WpfApp\\Lab2-WpfApp.csproj|solutionrelative:lab2-wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32057A5E-5A8D-494F-999E-F3C56544B4F7}|Lab2-WpfApp\\Lab2-WpfApp.csproj|d:\\kyhoc\\k7\\prn222\\demotcpservice\\lab2-wpfapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32057A5E-5A8D-494F-999E-F3C56544B4F7}|Lab2-WpfApp\\Lab2-WpfApp.csproj|solutionrelative:lab2-wpfapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7651498-CB67-4178-8465-4A4ABC1DE44F}|Lab1-ServerApp\\Lab1-ServerApp.csproj|d:\\kyhoc\\k7\\prn222\\demotcpservice\\lab1-serverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7651498-CB67-4178-8465-4A4ABC1DE44F}|Lab1-ServerApp\\Lab1-ServerApp.csproj|solutionrelative:lab1-serverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F4B166F-66CC-4315-838B-6EF4EA188B22}|Lab1\\Lab1-ClientApp.csproj|d:\\kyhoc\\k7\\prn222\\demotcpservice\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F4B166F-66CC-4315-838B-6EF4EA188B22}|Lab1\\Lab1-ClientApp.csproj|solutionrelative:lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF9529D-DC78-4509-8EB0-71FF88651BF4}|ClientApp\\ClientApp.csproj|D:\\KyHoc\\K7\\PRN222\\DemoTcpService\\clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF9529D-DC78-4509-8EB0-71FF88651BF4}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873FC0EB-9C98-4909-A4B4-BBA477C32CA7}|ServerApp\\ServerApp.csproj|D:\\KyHoc\\K7\\PRN222\\DemoTcpService\\serverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873FC0EB-9C98-4909-A4B4-BBA477C32CA7}|ServerApp\\ServerApp.csproj|solutionrelative:serverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F4B166F-66CC-4315-838B-6EF4EA188B22}|Lab1\\Lab1.csproj|D:\\KyHoc\\K7\\PRN222\\DemoTcpService\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F4B166F-66CC-4315-838B-6EF4EA188B22}|Lab1\\Lab1.csproj|solutionrelative:lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FCA499-675A-4818-A717-F0E07E70E1A2}|TaskDemo\\TaskDemo.csproj|D:\\KyHoc\\K7\\PRN222\\DemoTcpService\\taskdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FCA499-675A-4818-A717-F0E07E70E1A2}|TaskDemo\\TaskDemo.csproj|solutionrelative:taskdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27ABEEEF-A024-4C80-8F55-1FE9AAFBDEDD}|UDPClientApp\\UDPClientApp.csproj|D:\\KyHoc\\K7\\PRN222\\DemoTcpService\\udpclientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27ABEEEF-A024-4C80-8F55-1FE9AAFBDEDD}|UDPClientApp\\UDPClientApp.csproj|solutionrelative:udpclientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52AFD2EC-2932-4885-8AC2-CF3F721E214C}|UDPServerApp\\UDPServerApp.csproj|D:\\KyHoc\\K7\\PRN222\\DemoTcpService\\udpserverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52AFD2EC-2932-4885-8AC2-CF3F721E214C}|UDPServerApp\\UDPServerApp.csproj|solutionrelative:udpserverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 14,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\DemoTcpService\\Lab2-WpfApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Lab2-WpfApp\\App.xaml.cs",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\DemoTcpService\\Lab2-WpfApp\\App.xaml.cs",
+              "RelativeToolTip": "Lab2-WpfApp\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T07:57:40.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\DemoTcpService\\Lab2-WpfApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Lab2-WpfApp\\MainWindow.xaml",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\DemoTcpService\\Lab2-WpfApp\\MainWindow.xaml",
+              "RelativeToolTip": "Lab2-WpfApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-11T07:53:35.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\DemoTcpService\\Lab2-WpfApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Lab2-WpfApp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\DemoTcpService\\Lab2-WpfApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Lab2-WpfApp\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T07:53:34.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\DemoTcpService\\Lab1\\Program.cs",
+              "RelativeDocumentMoniker": "Lab1\\Program.cs",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\DemoTcpService\\Lab1\\Program.cs",
+              "RelativeToolTip": "Lab1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T06:23:49.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\DemoTcpService\\Lab1-ServerApp\\Program.cs",
+              "RelativeDocumentMoniker": "Lab1-ServerApp\\Program.cs",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\DemoTcpService\\Lab1-ServerApp\\Program.cs",
+              "RelativeToolTip": "Lab1-ServerApp\\Program.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAwwEwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T02:30:56.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\DemoTcpService\\Lab1\\Program.cs",
+              "RelativeDocumentMoniker": "Lab1\\Program.cs",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\DemoTcpService\\Lab1\\Program.cs",
+              "RelativeToolTip": "Lab1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T02:29:48.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\DemoTcpService\\ClientApp\\Program.cs",
+              "RelativeDocumentMoniker": "ClientApp\\Program.cs",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\DemoTcpService\\ClientApp\\Program.cs",
+              "RelativeToolTip": "ClientApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T00:47:18.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\DemoTcpService\\UDPClientApp\\Program.cs",
+              "RelativeDocumentMoniker": "UDPClientApp\\Program.cs",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\DemoTcpService\\UDPClientApp\\Program.cs",
+              "RelativeToolTip": "UDPClientApp\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T01:23:04.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\DemoTcpService\\ServerApp\\Program.cs",
+              "RelativeDocumentMoniker": "ServerApp\\Program.cs",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\DemoTcpService\\ServerApp\\Program.cs",
+              "RelativeToolTip": "ServerApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T00:47:03.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\DemoTcpService\\TaskDemo\\Program.cs",
+              "RelativeDocumentMoniker": "TaskDemo\\Program.cs",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\DemoTcpService\\TaskDemo\\Program.cs",
+              "RelativeToolTip": "TaskDemo\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwB0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T01:50:25.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\DemoTcpService\\UDPServerApp\\Program.cs",
+              "RelativeDocumentMoniker": "UDPServerApp\\Program.cs",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\DemoTcpService\\UDPServerApp\\Program.cs",
+              "RelativeToolTip": "UDPServerApp\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwC0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T01:20:09.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 36,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
