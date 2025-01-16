@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Slot1-URIDemo/1.0.0": {
+        "runtime": {
+          "Slot1-URIDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Slot1-URIDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

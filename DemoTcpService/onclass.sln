@@ -11,13 +11,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Slot2-UDPServerApp", "UDPSe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Slot2-UDPClientApp", "UDPClientApp\Slot2-UDPClientApp.csproj", "{27ABEEEF-A024-4C80-8F55-1FE9AAFBDEDD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Slot2-TaskDemo", "TaskDemo\Slot2-TaskDemo.csproj", "{C9FCA499-675A-4818-A717-F0E07E70E1A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Slot3-TaskDemo", "TaskDemo\Slot3-TaskDemo.csproj", "{C9FCA499-675A-4818-A717-F0E07E70E1A2}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab1-ClientApp", "Lab1\Lab1-ClientApp.csproj", "{2F4B166F-66CC-4315-838B-6EF4EA188B22}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab1-ServerApp", "Lab1-ServerApp\Lab1-ServerApp.csproj", "{F7651498-CB67-4178-8465-4A4ABC1DE44F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2-WpfApp", "Lab2-WpfApp\Lab2-WpfApp.csproj", "{32057A5E-5A8D-494F-999E-F3C56544B4F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab2-WpfApp", "Lab2-WpfApp\Lab2-WpfApp.csproj", "{32057A5E-5A8D-494F-999E-F3C56544B4F7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Slot3-PLINQDemo", "Slot3-PLINQDemo\Slot3-PLINQDemo.csproj", "{C8624B9E-AE44-4F56-8CDB-3563B027B2CB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Slot3-AsynchronousDemo", "Slot3-AsynchronousDemo\Slot3-AsynchronousDemo.csproj", "{CCF7DE13-543B-4B5A-9904-5BE82888BFDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slot1-URIDemo", "Slot1-URIDemo\Slot1-URIDemo.csproj", "{BC8BC9E1-E07F-4509-BBEE-D5E29A3F6AF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slot1-WebRequestAndWebResponseDemo", "Slot1-WebRequestAndWebResponseDemo\Slot1-WebRequestAndWebResponseDemo.csproj", "{62A3E7BE-7D82-4516-B68D-974875F9B832}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slot1-HttpClientDemo", "Slot1-HttpClientDemo\Slot1-HttpClientDemo.csproj", "{BB8084D6-2F41-4997-B2E2-56A26F5F8E2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slot2-DNSDemo", "Slot1-DNSDemo\Slot2-DNSDemo.csproj", "{7F2758AD-330F-4EFE-9DDE-08A270B4130A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +69,30 @@ Global
 		{32057A5E-5A8D-494F-999E-F3C56544B4F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32057A5E-5A8D-494F-999E-F3C56544B4F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32057A5E-5A8D-494F-999E-F3C56544B4F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8624B9E-AE44-4F56-8CDB-3563B027B2CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8624B9E-AE44-4F56-8CDB-3563B027B2CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8624B9E-AE44-4F56-8CDB-3563B027B2CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8624B9E-AE44-4F56-8CDB-3563B027B2CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCF7DE13-543B-4B5A-9904-5BE82888BFDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF7DE13-543B-4B5A-9904-5BE82888BFDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF7DE13-543B-4B5A-9904-5BE82888BFDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF7DE13-543B-4B5A-9904-5BE82888BFDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC8BC9E1-E07F-4509-BBEE-D5E29A3F6AF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC8BC9E1-E07F-4509-BBEE-D5E29A3F6AF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC8BC9E1-E07F-4509-BBEE-D5E29A3F6AF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC8BC9E1-E07F-4509-BBEE-D5E29A3F6AF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62A3E7BE-7D82-4516-B68D-974875F9B832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62A3E7BE-7D82-4516-B68D-974875F9B832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62A3E7BE-7D82-4516-B68D-974875F9B832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62A3E7BE-7D82-4516-B68D-974875F9B832}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB8084D6-2F41-4997-B2E2-56A26F5F8E2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB8084D6-2F41-4997-B2E2-56A26F5F8E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB8084D6-2F41-4997-B2E2-56A26F5F8E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB8084D6-2F41-4997-B2E2-56A26F5F8E2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F2758AD-330F-4EFE-9DDE-08A270B4130A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F2758AD-330F-4EFE-9DDE-08A270B4130A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F2758AD-330F-4EFE-9DDE-08A270B4130A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F2758AD-330F-4EFE-9DDE-08A270B4130A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-URIDemo\bin\Debug\net8.0\Slot1-URIDemo.exe
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-URIDemo\bin\Debug\net8.0\Slot1-URIDemo.deps.json
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-URIDemo\bin\Debug\net8.0\Slot1-URIDemo.runtimeconfig.json
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-URIDemo\bin\Debug\net8.0\Slot1-URIDemo.dll
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-URIDemo\bin\Debug\net8.0\Slot1-URIDemo.pdb
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-URIDemo\obj\Debug\net8.0\Slot1-URIDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-URIDemo\obj\Debug\net8.0\Slot1-URIDemo.AssemblyInfoInputs.cache
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-URIDemo\obj\Debug\net8.0\Slot1-URIDemo.AssemblyInfo.cs
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-URIDemo\obj\Debug\net8.0\Slot1-URIDemo.csproj.CoreCompileInputs.cache
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-URIDemo\obj\Debug\net8.0\Slot1-URIDemo.sourcelink.json
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-URIDemo\obj\Debug\net8.0\Slot1-URIDemo.dll
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-URIDemo\obj\Debug\net8.0\refint\Slot1-URIDemo.dll
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-URIDemo\obj\Debug\net8.0\Slot1-URIDemo.pdb
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-URIDemo\obj\Debug\net8.0\Slot1-URIDemo.genruntimeconfig.cache
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-URIDemo\obj\Debug\net8.0\ref\Slot1-URIDemo.dll

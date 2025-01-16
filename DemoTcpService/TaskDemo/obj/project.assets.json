@@ -418,9 +418,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\TaskDemo\\Slot2-TaskDemo.csproj",
-      "projectName": "Slot2-TaskDemo",
-      "projectPath": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\TaskDemo\\Slot2-TaskDemo.csproj",
+      "projectUniqueName": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\TaskDemo\\Slot3-TaskDemo.csproj",
+      "projectName": "Slot3-TaskDemo",
+      "projectPath": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\TaskDemo\\Slot3-TaskDemo.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
       "outputPath": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\TaskDemo\\obj\\",
       "projectStyle": "PackageReference",

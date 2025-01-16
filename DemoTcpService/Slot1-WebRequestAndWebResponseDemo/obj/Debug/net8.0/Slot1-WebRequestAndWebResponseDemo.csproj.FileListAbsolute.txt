@@ -1,0 +1,15 @@
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-WebRequestAndWebResponseDemo\bin\Debug\net8.0\Slot1-WebRequestAndWebResponseDemo.exe
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-WebRequestAndWebResponseDemo\bin\Debug\net8.0\Slot1-WebRequestAndWebResponseDemo.deps.json
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-WebRequestAndWebResponseDemo\bin\Debug\net8.0\Slot1-WebRequestAndWebResponseDemo.runtimeconfig.json
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-WebRequestAndWebResponseDemo\bin\Debug\net8.0\Slot1-WebRequestAndWebResponseDemo.dll
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-WebRequestAndWebResponseDemo\bin\Debug\net8.0\Slot1-WebRequestAndWebResponseDemo.pdb
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-WebRequestAndWebResponseDemo\obj\Debug\net8.0\Slot1-WebRequestAndWebResponseDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-WebRequestAndWebResponseDemo\obj\Debug\net8.0\Slot1-WebRequestAndWebResponseDemo.AssemblyInfoInputs.cache
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-WebRequestAndWebResponseDemo\obj\Debug\net8.0\Slot1-WebRequestAndWebResponseDemo.AssemblyInfo.cs
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-WebRequestAndWebResponseDemo\obj\Debug\net8.0\Slot1-WebRequestAndWebResponseDemo.csproj.CoreCompileInputs.cache
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-WebRequestAndWebResponseDemo\obj\Debug\net8.0\Slot1-WebRequestAndWebResponseDemo.sourcelink.json
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-WebRequestAndWebResponseDemo\obj\Debug\net8.0\Slot1-WebRequestAndWebResponseDemo.dll
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-WebRequestAndWebResponseDemo\obj\Debug\net8.0\refint\Slot1-WebRequestAndWebResponseDemo.dll
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-WebRequestAndWebResponseDemo\obj\Debug\net8.0\Slot1-WebRequestAndWebResponseDemo.pdb
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-WebRequestAndWebResponseDemo\obj\Debug\net8.0\Slot1-WebRequestAndWebResponseDemo.genruntimeconfig.cache
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-WebRequestAndWebResponseDemo\obj\Debug\net8.0\ref\Slot1-WebRequestAndWebResponseDemo.dll

@@ -1,0 +1,15 @@
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-DNSDemo\bin\Debug\net8.0\Slot1-DNSDemo.exe
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-DNSDemo\bin\Debug\net8.0\Slot1-DNSDemo.deps.json
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-DNSDemo\bin\Debug\net8.0\Slot1-DNSDemo.runtimeconfig.json
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-DNSDemo\bin\Debug\net8.0\Slot1-DNSDemo.dll
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-DNSDemo\bin\Debug\net8.0\Slot1-DNSDemo.pdb
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-DNSDemo\obj\Debug\net8.0\Slot1-DNSDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-DNSDemo\obj\Debug\net8.0\Slot1-DNSDemo.AssemblyInfoInputs.cache
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-DNSDemo\obj\Debug\net8.0\Slot1-DNSDemo.AssemblyInfo.cs
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-DNSDemo\obj\Debug\net8.0\Slot1-DNSDemo.csproj.CoreCompileInputs.cache
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-DNSDemo\obj\Debug\net8.0\Slot1-DNSDemo.sourcelink.json
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-DNSDemo\obj\Debug\net8.0\Slot1-DNSDemo.dll
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-DNSDemo\obj\Debug\net8.0\refint\Slot1-DNSDemo.dll
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-DNSDemo\obj\Debug\net8.0\Slot1-DNSDemo.pdb
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-DNSDemo\obj\Debug\net8.0\Slot1-DNSDemo.genruntimeconfig.cache
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot1-DNSDemo\obj\Debug\net8.0\ref\Slot1-DNSDemo.dll

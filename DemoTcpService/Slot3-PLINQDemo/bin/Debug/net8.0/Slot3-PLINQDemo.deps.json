@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Slot3-PLINQDemo/1.0.0": {
+        "runtime": {
+          "Slot3-PLINQDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Slot3-PLINQDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

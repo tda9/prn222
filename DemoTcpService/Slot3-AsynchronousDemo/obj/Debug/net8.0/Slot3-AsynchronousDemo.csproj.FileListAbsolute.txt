@@ -1,0 +1,15 @@
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot3-AsynchronousDemo\bin\Debug\net8.0\Slot3-AsynchronousDemo.exe
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot3-AsynchronousDemo\bin\Debug\net8.0\Slot3-AsynchronousDemo.deps.json
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot3-AsynchronousDemo\bin\Debug\net8.0\Slot3-AsynchronousDemo.runtimeconfig.json
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot3-AsynchronousDemo\bin\Debug\net8.0\Slot3-AsynchronousDemo.dll
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot3-AsynchronousDemo\bin\Debug\net8.0\Slot3-AsynchronousDemo.pdb
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot3-AsynchronousDemo\obj\Debug\net8.0\Slot3-AsynchronousDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot3-AsynchronousDemo\obj\Debug\net8.0\Slot3-AsynchronousDemo.AssemblyInfoInputs.cache
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot3-AsynchronousDemo\obj\Debug\net8.0\Slot3-AsynchronousDemo.AssemblyInfo.cs
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot3-AsynchronousDemo\obj\Debug\net8.0\Slot3-AsynchronousDemo.csproj.CoreCompileInputs.cache
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot3-AsynchronousDemo\obj\Debug\net8.0\Slot3-AsynchronousDemo.sourcelink.json
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot3-AsynchronousDemo\obj\Debug\net8.0\Slot3-AsynchronousDemo.dll
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot3-AsynchronousDemo\obj\Debug\net8.0\refint\Slot3-AsynchronousDemo.dll
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot3-AsynchronousDemo\obj\Debug\net8.0\Slot3-AsynchronousDemo.pdb
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot3-AsynchronousDemo\obj\Debug\net8.0\Slot3-AsynchronousDemo.genruntimeconfig.cache
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot3-AsynchronousDemo\obj\Debug\net8.0\ref\Slot3-AsynchronousDemo.dll

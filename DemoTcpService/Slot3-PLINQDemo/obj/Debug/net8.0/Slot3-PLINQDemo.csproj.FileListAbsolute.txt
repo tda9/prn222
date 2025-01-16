@@ -1,0 +1,15 @@
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot3-PLINQDemo\bin\Debug\net8.0\Slot3-PLINQDemo.exe
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot3-PLINQDemo\bin\Debug\net8.0\Slot3-PLINQDemo.deps.json
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot3-PLINQDemo\bin\Debug\net8.0\Slot3-PLINQDemo.runtimeconfig.json
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot3-PLINQDemo\bin\Debug\net8.0\Slot3-PLINQDemo.dll
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot3-PLINQDemo\bin\Debug\net8.0\Slot3-PLINQDemo.pdb
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot3-PLINQDemo\obj\Debug\net8.0\Slot3-PLINQDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot3-PLINQDemo\obj\Debug\net8.0\Slot3-PLINQDemo.AssemblyInfoInputs.cache
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot3-PLINQDemo\obj\Debug\net8.0\Slot3-PLINQDemo.AssemblyInfo.cs
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot3-PLINQDemo\obj\Debug\net8.0\Slot3-PLINQDemo.csproj.CoreCompileInputs.cache
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot3-PLINQDemo\obj\Debug\net8.0\Slot3-PLINQDemo.sourcelink.json
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot3-PLINQDemo\obj\Debug\net8.0\Slot3-PLINQDemo.dll
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot3-PLINQDemo\obj\Debug\net8.0\refint\Slot3-PLINQDemo.dll
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot3-PLINQDemo\obj\Debug\net8.0\Slot3-PLINQDemo.pdb
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot3-PLINQDemo\obj\Debug\net8.0\Slot3-PLINQDemo.genruntimeconfig.cache
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot3-PLINQDemo\obj\Debug\net8.0\ref\Slot3-PLINQDemo.dll
