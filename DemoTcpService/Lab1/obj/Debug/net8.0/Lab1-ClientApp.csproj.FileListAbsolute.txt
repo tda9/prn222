@@ -21,3 +21,27 @@ D:\KyHoc\K7\PRN222\DemoTcpService\Lab1\obj\Debug\net8.0\refint\Lab1-ClientApp.dl
 D:\KyHoc\K7\PRN222\DemoTcpService\Lab1\obj\Debug\net8.0\Lab1-ClientApp.pdb
 D:\KyHoc\K7\PRN222\DemoTcpService\Lab1\obj\Debug\net8.0\Lab1-ClientApp.genruntimeconfig.cache
 D:\KyHoc\K7\PRN222\DemoTcpService\Lab1\obj\Debug\net8.0\ref\Lab1-ClientApp.dll
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Lab1\bin\Debug\net8.0\Lab1-ClientApp.exe
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Lab1\bin\Debug\net8.0\Lab1-ClientApp.deps.json
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Lab1\bin\Debug\net8.0\Lab1-ClientApp.runtimeconfig.json
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Lab1\bin\Debug\net8.0\Lab1-ClientApp.dll
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Lab1\bin\Debug\net8.0\Lab1-ClientApp.pdb
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Lab1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Lab1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Lab1\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Lab1\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Lab1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Lab1\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Lab1\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Lab1\obj\Debug\net8.0\Lab1-ClientApp.csproj.AssemblyReference.cache
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Lab1\obj\Debug\net8.0\Lab1-ClientApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Lab1\obj\Debug\net8.0\Lab1-ClientApp.AssemblyInfoInputs.cache
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Lab1\obj\Debug\net8.0\Lab1-ClientApp.AssemblyInfo.cs
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Lab1\obj\Debug\net8.0\Lab1-ClientApp.csproj.CoreCompileInputs.cache
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Lab1\obj\Debug\net8.0\Lab1-ClientApp.sourcelink.json
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Lab1\obj\Debug\net8.0\Lab1-Cli.B962938B.Up2Date
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Lab1\obj\Debug\net8.0\Lab1-ClientApp.dll
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Lab1\obj\Debug\net8.0\refint\Lab1-ClientApp.dll
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Lab1\obj\Debug\net8.0\Lab1-ClientApp.pdb
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Lab1\obj\Debug\net8.0\Lab1-ClientApp.genruntimeconfig.cache
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Lab1\obj\Debug\net8.0\ref\Lab1-ClientApp.dll

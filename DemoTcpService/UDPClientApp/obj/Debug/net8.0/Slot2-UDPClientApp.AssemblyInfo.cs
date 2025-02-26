@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Slot2-UDPClientApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3995bbba0ea9b5162809ab70be623e69efcc46c7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb6676690bf8a35e4243aa4be9cd522ed7faa73e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Slot2-UDPClientApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Slot2-UDPClientApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

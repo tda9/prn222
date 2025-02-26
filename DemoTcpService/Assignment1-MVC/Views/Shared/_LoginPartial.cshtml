@@ -1,0 +1,20 @@
+﻿@if (Context.Request.Cookies["UserLoggedIn"] == "true")
+{
+	<li class="nav-item rounded-pill bg-primary">
+		@{
+			var AccountId = Context.Request.Cookies["AccountId"];
+		}
+		<a class="nav-link text-white" asp-area="" asp-controller="SystemAccounts" asp-action="Details" asp-route-id="@AccountId">Profile</a>
+	</li>
+	<li class="nav-item rounded-pill bg-primary">
+		<a class="nav-link text-white" asp-controller="Account" asp-action="Logout">Logout</a>
+	</li>
+}
+else
+{
+	<li class="nav-item rounded-pill bg-primary">
+		<a class="nav-link text-white" asp-controller="Account" asp-action="Login">Login</a>
+	</li>
+	
+}
+

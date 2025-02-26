@@ -1,0 +1,15 @@
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot5-PLINQ\bin\Debug\net8.0\Slot5-PLINQ.exe
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot5-PLINQ\bin\Debug\net8.0\Slot5-PLINQ.deps.json
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot5-PLINQ\bin\Debug\net8.0\Slot5-PLINQ.runtimeconfig.json
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot5-PLINQ\bin\Debug\net8.0\Slot5-PLINQ.dll
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot5-PLINQ\bin\Debug\net8.0\Slot5-PLINQ.pdb
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot5-PLINQ\obj\Debug\net8.0\Slot5-PLINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot5-PLINQ\obj\Debug\net8.0\Slot5-PLINQ.AssemblyInfoInputs.cache
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot5-PLINQ\obj\Debug\net8.0\Slot5-PLINQ.AssemblyInfo.cs
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot5-PLINQ\obj\Debug\net8.0\Slot5-PLINQ.csproj.CoreCompileInputs.cache
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot5-PLINQ\obj\Debug\net8.0\Slot5-PLINQ.sourcelink.json
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot5-PLINQ\obj\Debug\net8.0\Slot5-PLINQ.dll
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot5-PLINQ\obj\Debug\net8.0\refint\Slot5-PLINQ.dll
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot5-PLINQ\obj\Debug\net8.0\Slot5-PLINQ.pdb
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot5-PLINQ\obj\Debug\net8.0\Slot5-PLINQ.genruntimeconfig.cache
+D:\KyHoc\K7\PRN222\New folder\prn222\DemoTcpService\Slot5-PLINQ\obj\Debug\net8.0\ref\Slot5-PLINQ.dll

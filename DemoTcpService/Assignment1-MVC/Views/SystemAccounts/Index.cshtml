@@ -1,0 +1,56 @@
+﻿@model IEnumerable<Assignment1_MVC.Models.SystemAccount>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h1>Index</h1>
+@if (Context.Request.Cookies["UserLoggedIn"] == "true" && Context.Request.Cookies["Role"] == "0"){
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+}
+<table class="table table-hover table-bordered align-middle">
+    <thead class="table-primary text-center">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.AccountName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AccountEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AccountRole)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AccountPassword)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody class="table-secondary">
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.AccountName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AccountEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AccountRole)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AccountPassword)
+             <td class="text-center">
+                    <div class="gap-2 justify-content-center">
+                        <a asp-action="Edit" asp-route-id="@item.AccountId" class="btn btn-sm btn-primary w-25">Edit</a>
+                        <a asp-action="Details" asp-route-id="@item.AccountId" class="btn btn-sm btn-success w-25">Details</a>
+                        <a asp-action="Delete" asp-route-id="@item.AccountId" class="btn btn-sm btn-danger w-25">Delete</a>
+                </div>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

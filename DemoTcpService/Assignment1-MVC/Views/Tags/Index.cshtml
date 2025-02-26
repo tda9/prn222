@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Assignment1_MVC.Models.Tag>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table table-hover table-bordered align-middle">
+    <thead class="table-info text-center">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TagName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Note)
+            </th>
+            <th>Actions</th>
+
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TagName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Note)
+            </td>
+                <td class="text-center">
+                    <div class="gap-2 justify-content-center">
+                        <a asp-action="Edit" asp-route-id="@item.TagId" class="btn btn-sm btn-primary w-25">Edit</a>
+                        <a asp-action="Details" asp-route-id="@item.TagId" class="btn btn-sm btn-success w-25">Details</a>
+                        <a asp-action="Delete" asp-route-id="@item.TagId" class="btn btn-sm btn-danger w-25">Delete</a>
+                    </div>
+                </td>
+
+        </tr>
+}
+    </tbody>
+</table>

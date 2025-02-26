@@ -1,0 +1,57 @@
+﻿@model IEnumerable<Assignment1_MVC.Models.Category>
+
+@{
+	ViewData["Title"] = "Index";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+	<a asp-action="Create">Create New</a>
+</p>
+<table class="table table-hover table-bordered align-middle">
+	<thead class="table-info text-center">
+		<tr>
+			<th>
+				@Html.DisplayNameFor(model => model.CategoryName)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.CategoryDesciption)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.IsActive)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.ParentCategory)
+			</th>
+			<th></th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model)
+		{
+			<tr>
+				<td>
+					@Html.DisplayFor(modelItem => item.CategoryName)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.CategoryDesciption)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.IsActive)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.ParentCategory.CategoryId)
+				</td>
+				<td class="text-center">
+					<div class="gap-2 justify-content-center">
+						<a asp-action="Edit" asp-route-id="@item.CategoryId" class="btn btn-sm btn-primary w-100">Edit</a>
+						<a asp-action="Details" asp-route-id="@item.CategoryId" class="btn btn-sm btn-success w-100">Details</a>
+						<a asp-action="Delete" asp-route-id="@item.CategoryId" class="btn btn-sm btn-danger w-100">Delete</a>
+					</div>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>

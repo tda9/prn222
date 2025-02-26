@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Slot7-mvc.props" />
+</Project>

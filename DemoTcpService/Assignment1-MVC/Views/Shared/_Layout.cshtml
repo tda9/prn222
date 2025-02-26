@@ -1,0 +1,96 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>@ViewData["Title"] - Assignment1_MVC</title>
+	<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+	<link rel="stylesheet" href="~/Assignment1_MVC.styles.css" asp-append-version="true" />
+	<style>
+		.account-container {
+			background-image: url("../images/account-bg.jpg");
+			background-size: cover;
+			background-position: center;
+			background-repeat: repeat-y;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-light border-bottom box-shadow shadow">
+			<div class="container-fluid">
+				<div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+					<a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Assignment1_MVC</a>
+					<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+							aria-expanded="false" aria-label="Toggle navigation">
+						<span class="navbar-toggler-icon"></span>
+					</button>
+				</div>
+				<div class="navbar-collapse collapse d-sm-inline-flex ">
+					<ul class="col-4 navbar-nav flex-grow-1 justify-content-between">
+						<li class="nav-item rounded-pill bg-info">
+							<a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+						</li>
+						<li class="nav-item rounded-pill bg-info">
+							<a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+						</li>
+						<li class="nav-item rounded-pill bg-info">
+							<a class="nav-link text-white" asp-area="" asp-controller="NewsArticles" asp-action="Index">News</a>
+						</li>
+					</ul>
+					<form asp-controller="NewsArticles" asp-action="Index" method="GET" class="col-8 ms-4 d-flex">
+						<input class="form-control rounded-pill text-info border-2 border-info p-2 me-2"
+							   placeholder="Search..." type="search" name="searchQuery"
+							   value="@Context.Request.Query["searchQuery"]" />
+						<button type="submit" class="btn btn-primary rounded-pill">Search</button>
+					</form>
+				</div>
+				<div class="navbar-collapse collapse d-sm-inline-flex ">
+					<ul class="navbar-nav flex-grow-1 justify-content-end">
+						<partial name="_LoginPartial" />
+					</ul>
+				</div>
+
+			</div>
+		</nav>
+		@if (Context.Request.Cookies["UserLoggedIn"] == "true" && Context.Request.Cookies["Role"] == "1")
+		{
+			<div class="d-flex">
+				<nav class="bg-light border-right position-fixed shadow" style="width: 250px; min-height: 100vh;">
+					<ul class="nav flex-column">
+						<li class="nav-item bg-info">
+							<a class="nav-link text-white" asp-area="" asp-controller="Categories" asp-action="Index">Categories</a>
+						</li>
+						<li class="nav-item bg-info">
+							<a class="nav-link text-white" asp-area="" asp-controller="Tags" asp-action="Index">Tags</a>
+						</li>
+						<li class="nav-item bg-info">
+							<a class="nav-link text-white" asp-area="" asp-controller="SystemAccounts" asp-action="Index">Accounts</a>
+						</li>
+					</ul>
+				</nav>
+			</div>
+		}
+	</header>
+	<div class="container">
+		
+		<main role="main" class="pb-3">
+			@RenderBody()
+		</main>
+	</div>
+
+	<footer class="border-top footer text-muted">
+		<div class="container">
+			&copy; 2025 - Assignment1_MVC - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+		</div>
+	</footer>
+	<script src="~/lib/jquery/dist/jquery.min.js"></script>
+	<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+	<script src="~/js/site.js" asp-append-version="true"></script>
+	@await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

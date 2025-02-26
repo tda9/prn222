@@ -3,51 +3,255 @@
   "WorkspaceRootPath": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F4B166F-66CC-4315-838B-6EF4EA188B22}|Lab1\\Lab1-ClientApp.csproj|d:\\kyhoc\\k7\\prn222\\new folder\\prn222\\demotcpservice\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F4B166F-66CC-4315-838B-6EF4EA188B22}|Lab1\\Lab1-ClientApp.csproj|solutionrelative:lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\assignment1-mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCF7DE13-543B-4B5A-9904-5BE82888BFDC}|Slot3-AsynchronousDemo\\Slot3-AsynchronousDemo.csproj|d:\\kyhoc\\k7\\prn222\\new folder\\prn222\\demotcpservice\\slot3-asynchronousdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCF7DE13-543B-4B5A-9904-5BE82888BFDC}|Slot3-AsynchronousDemo\\Slot3-AsynchronousDemo.csproj|solutionrelative:slot3-asynchronousdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\assignment1-mvc\\controllers\\systemaccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\controllers\\systemaccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9FCA499-675A-4818-A717-F0E07E70E1A2}|TaskDemo\\Slot3-TaskDemo.csproj|d:\\kyhoc\\k7\\prn222\\new folder\\prn222\\demotcpservice\\taskdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9FCA499-675A-4818-A717-F0E07E70E1A2}|TaskDemo\\Slot3-TaskDemo.csproj|solutionrelative:taskdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\assignment1-mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27ABEEEF-A024-4C80-8F55-1FE9AAFBDEDD}|UDPClientApp\\Slot2-UDPClientApp.csproj|d:\\kyhoc\\k7\\prn222\\new folder\\prn222\\demotcpservice\\udpclientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27ABEEEF-A024-4C80-8F55-1FE9AAFBDEDD}|UDPClientApp\\Slot2-UDPClientApp.csproj|solutionrelative:udpclientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\assignment1-mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F2758AD-330F-4EFE-9DDE-08A270B4130A}|Slot1-DNSDemo\\Slot1-DNSDemo.csproj|d:\\kyhoc\\k7\\prn222\\new folder\\prn222\\demotcpservice\\slot1-dnsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F2758AD-330F-4EFE-9DDE-08A270B4130A}|Slot1-DNSDemo\\Slot1-DNSDemo.csproj|solutionrelative:slot1-dnsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\assignment1-mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB8084D6-2F41-4997-B2E2-56A26F5F8E2B}|Slot1-HttpClientDemo\\Slot1-HttpClientDemo.csproj|d:\\kyhoc\\k7\\prn222\\new folder\\prn222\\demotcpservice\\slot1-httpclientdemo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB8084D6-2F41-4997-B2E2-56A26F5F8E2B}|Slot1-HttpClientDemo\\Slot1-HttpClientDemo.csproj|solutionrelative:slot1-httpclientdemo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\assignment1-mvc\\views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32057A5E-5A8D-494F-999E-F3C56544B4F7}|Lab2-WpfApp\\Lab2-WpfApp.csproj|d:\\kyhoc\\k7\\prn222\\new folder\\prn222\\demotcpservice\\lab2-wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32057A5E-5A8D-494F-999E-F3C56544B4F7}|Lab2-WpfApp\\Lab2-WpfApp.csproj|solutionrelative:lab2-wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\assignment1-mvc\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB8084D6-2F41-4997-B2E2-56A26F5F8E2B}|Slot1-HttpClientDemo\\Slot1-HttpClientDemo.csproj|d:\\kyhoc\\k7\\prn222\\new folder\\prn222\\demotcpservice\\slot1-httpclientdemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BB8084D6-2F41-4997-B2E2-56A26F5F8E2B}|Slot1-HttpClientDemo\\Slot1-HttpClientDemo.csproj|solutionrelative:slot1-httpclientdemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|d:\\kyhoc\\k7\\prn222\\new folder\\prn222\\demotcpservice\\assignment1-mvc\\models\\systemaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\models\\systemaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32057A5E-5A8D-494F-999E-F3C56544B4F7}|Lab2-WpfApp\\Lab2-WpfApp.csproj|d:\\kyhoc\\k7\\prn222\\new folder\\prn222\\demotcpservice\\lab2-wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{32057A5E-5A8D-494F-999E-F3C56544B4F7}|Lab2-WpfApp\\Lab2-WpfApp.csproj|solutionrelative:lab2-wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\assignment1-mvc\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62A3E7BE-7D82-4516-B68D-974875F9B832}|Slot1-WebRequestAndWebResponseDemo\\Slot1-WebRequestAndWebResponseDemo.csproj|d:\\kyhoc\\k7\\prn222\\new folder\\prn222\\demotcpservice\\slot1-webrequestandwebresponsedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62A3E7BE-7D82-4516-B68D-974875F9B832}|Slot1-WebRequestAndWebResponseDemo\\Slot1-WebRequestAndWebResponseDemo.csproj|solutionrelative:slot1-webrequestandwebresponsedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\assignment1-mvc\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{873FC0EB-9C98-4909-A4B4-BBA477C32CA7}|ServerApp\\Slot1-ServerApp.csproj|d:\\kyhoc\\k7\\prn222\\new folder\\prn222\\demotcpservice\\serverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\assignment1-mvc\\views\\tags\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\views\\tags\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\assignment1-mvc\\views\\systemaccounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\views\\systemaccounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\assignment1-mvc\\views\\newsarticles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\views\\newsarticles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\assignment1-mvc\\controllers\\newsarticlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\controllers\\newsarticlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\assignment1-mvc\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\assignment1-mvc\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\assignment1-mvc\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\assignment1-mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\assignment1-mvc\\views\\newsarticles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\views\\newsarticles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\assignment1-mvc\\models\\newsarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\models\\newsarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\assignment1-mvc\\views\\newsarticles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\views\\newsarticles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\assignment1-mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\assignment1-mvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\assignment1-mvc\\views\\systemaccounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\views\\systemaccounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\assignment1-mvc\\views\\tags\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\views\\tags\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\assignment1-mvc\\views\\systemaccounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\views\\systemaccounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\assignment1-mvc\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\assignment1-mvc\\models\\funewsmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\models\\funewsmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\assignment1-mvc\\views\\newsarticles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\views\\newsarticles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\assignment1-mvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\assignment1-mvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\assignment1-mvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\assignment1-mvc\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\assignment1-mvc\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\assignment1-mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\assignment1-mvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\assignment1-mvc\\assignment1-mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\assignment1-mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\assignment1-mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\assignment1-mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\assignment1-mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\assignment1-mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\assignment1-mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC5261E-D3F3-4677-BD8D-8106FC27A2FC}|Assignment1-MVC\\Assignment1-MVC.csproj|solutionrelative:assignment1-mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96397B4C-0786-4F19-9708-17838B7A6FD2}|WebApplication1\\WebApplication1.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96397B4C-0786-4F19-9708-17838B7A6FD2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9253E0AB-3882-4F2C-93B0-F5B41D11A716}|Slot8-Demo1Mvc\\Slot8-Demo1Mvc.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\slot8-demo1mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9253E0AB-3882-4F2C-93B0-F5B41D11A716}|Slot8-Demo1Mvc\\Slot8-Demo1Mvc.csproj|solutionrelative:slot8-demo1mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9253E0AB-3882-4F2C-93B0-F5B41D11A716}|Slot8-Demo1Mvc\\Slot8-Demo1Mvc.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\slot8-demo1mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9253E0AB-3882-4F2C-93B0-F5B41D11A716}|Slot8-Demo1Mvc\\Slot8-Demo1Mvc.csproj|solutionrelative:slot8-demo1mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2CB3D9-3250-4088-895C-33693BC68135}|Slot5-TAPAsync\\Slot5-TAPAsync.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\slot5-tapasync\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2CB3D9-3250-4088-895C-33693BC68135}|Slot5-TAPAsync\\Slot5-TAPAsync.csproj|solutionrelative:slot5-tapasync\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2CB3D9-3250-4088-895C-33693BC68135}|Slot5-TAPAsync\\Slot5-TAPAsync.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\slot5-tapasync\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7C2CB3D9-3250-4088-895C-33693BC68135}|Slot5-TAPAsync\\Slot5-TAPAsync.csproj|solutionrelative:slot5-tapasync\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C503B73-2BBE-4205-AD05-F3B6E912EB2B}|Slot5-DemoAsync\\Slot5-DemoAsync.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\slot5-demoasync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C503B73-2BBE-4205-AD05-F3B6E912EB2B}|Slot5-DemoAsync\\Slot5-DemoAsync.csproj|solutionrelative:slot5-demoasync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70023957-1DBE-47BC-BDFE-CBFCF4F14AE3}|Slot5-PLINQ\\Slot5-PLINQ.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\slot5-plinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70023957-1DBE-47BC-BDFE-CBFCF4F14AE3}|Slot5-PLINQ\\Slot5-PLINQ.csproj|solutionrelative:slot5-plinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7651498-CB67-4178-8465-4A4ABC1DE44F}|Lab1-ServerApp\\Lab1-ServerApp.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\lab1-serverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7651498-CB67-4178-8465-4A4ABC1DE44F}|Lab1-ServerApp\\Lab1-ServerApp.csproj|solutionrelative:lab1-serverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7651498-CB67-4178-8465-4A4ABC1DE44F}|Lab1-ServerApp\\Lab1-ServerApp.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\lab1-serverapp\\lab1-serverapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F7651498-CB67-4178-8465-4A4ABC1DE44F}|Lab1-ServerApp\\Lab1-ServerApp.csproj|solutionrelative:lab1-serverapp\\lab1-serverapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873FC0EB-9C98-4909-A4B4-BBA477C32CA7}|ServerApp\\Slot1-ServerApp.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\serverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{873FC0EB-9C98-4909-A4B4-BBA477C32CA7}|ServerApp\\Slot1-ServerApp.csproj|solutionrelative:serverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC8BC9E1-E07F-4509-BBEE-D5E29A3F6AF5}|Slot1-URIDemo\\Slot1-URIDemo.csproj|d:\\kyhoc\\k7\\prn222\\new folder\\prn222\\demotcpservice\\slot1-uridemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{873FC0EB-9C98-4909-A4B4-BBA477C32CA7}|ServerApp\\Slot1-ServerApp.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\serverapp\\slot1-serverapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{873FC0EB-9C98-4909-A4B4-BBA477C32CA7}|ServerApp\\Slot1-ServerApp.csproj|solutionrelative:serverapp\\slot1-serverapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF7DE13-543B-4B5A-9904-5BE82888BFDC}|Slot3-AsynchronousDemo\\Slot3-AsynchronousDemo.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\slot3-asynchronousdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF7DE13-543B-4B5A-9904-5BE82888BFDC}|Slot3-AsynchronousDemo\\Slot3-AsynchronousDemo.csproj|solutionrelative:slot3-asynchronousdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FCA499-675A-4818-A717-F0E07E70E1A2}|TaskDemo\\Slot3-TaskDemo.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\taskdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FCA499-675A-4818-A717-F0E07E70E1A2}|TaskDemo\\Slot3-TaskDemo.csproj|solutionrelative:taskdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27ABEEEF-A024-4C80-8F55-1FE9AAFBDEDD}|UDPClientApp\\Slot2-UDPClientApp.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\udpclientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27ABEEEF-A024-4C80-8F55-1FE9AAFBDEDD}|UDPClientApp\\Slot2-UDPClientApp.csproj|solutionrelative:udpclientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2758AD-330F-4EFE-9DDE-08A270B4130A}|Slot1-DNSDemo\\Slot1-DNSDemo.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\slot1-dnsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F2758AD-330F-4EFE-9DDE-08A270B4130A}|Slot1-DNSDemo\\Slot1-DNSDemo.csproj|solutionrelative:slot1-dnsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8084D6-2F41-4997-B2E2-56A26F5F8E2B}|Slot1-HttpClientDemo\\Slot1-HttpClientDemo.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\slot1-httpclientdemo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8084D6-2F41-4997-B2E2-56A26F5F8E2B}|Slot1-HttpClientDemo\\Slot1-HttpClientDemo.csproj|solutionrelative:slot1-httpclientdemo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32057A5E-5A8D-494F-999E-F3C56544B4F7}|Lab2-WpfApp\\Lab2-WpfApp.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\lab2-wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32057A5E-5A8D-494F-999E-F3C56544B4F7}|Lab2-WpfApp\\Lab2-WpfApp.csproj|solutionrelative:lab2-wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8084D6-2F41-4997-B2E2-56A26F5F8E2B}|Slot1-HttpClientDemo\\Slot1-HttpClientDemo.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\slot1-httpclientdemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BB8084D6-2F41-4997-B2E2-56A26F5F8E2B}|Slot1-HttpClientDemo\\Slot1-HttpClientDemo.csproj|solutionrelative:slot1-httpclientdemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32057A5E-5A8D-494F-999E-F3C56544B4F7}|Lab2-WpfApp\\Lab2-WpfApp.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\lab2-wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32057A5E-5A8D-494F-999E-F3C56544B4F7}|Lab2-WpfApp\\Lab2-WpfApp.csproj|solutionrelative:lab2-wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62A3E7BE-7D82-4516-B68D-974875F9B832}|Slot1-WebRequestAndWebResponseDemo\\Slot1-WebRequestAndWebResponseDemo.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\slot1-webrequestandwebresponsedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62A3E7BE-7D82-4516-B68D-974875F9B832}|Slot1-WebRequestAndWebResponseDemo\\Slot1-WebRequestAndWebResponseDemo.csproj|solutionrelative:slot1-webrequestandwebresponsedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8BC9E1-E07F-4509-BBEE-D5E29A3F6AF5}|Slot1-URIDemo\\Slot1-URIDemo.csproj|D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\slot1-uridemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC8BC9E1-E07F-4509-BBEE-D5E29A3F6AF5}|Slot1-URIDemo\\Slot1-URIDemo.csproj|solutionrelative:slot1-uridemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -57,8 +261,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 14,
-          "SelectedChildIndex": 3,
+          "DockedWidth": 39,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,20 +278,642 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Lab1\\Program.cs",
-              "RelativeDocumentMoniker": "Lab1\\Program.cs",
-              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Lab1\\Program.cs",
-              "RelativeToolTip": "Lab1\\Program.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T14:15:00.572Z",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\appsettings.json",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\appsettings.json",
+              "RelativeToolTip": "Assignment1-MVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-19T03:47:37.475Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NewsArticlesController.cs",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Controllers\\NewsArticlesController.cs",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\Controllers\\NewsArticlesController.cs",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Controllers\\NewsArticlesController.cs",
+              "RelativeToolTip": "Assignment1-MVC\\Controllers\\NewsArticlesController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAIwFsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T01:45:00.135Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "SystemAccountsController.cs",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Controllers\\SystemAccountsController.cs",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\Controllers\\SystemAccountsController.cs",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Controllers\\SystemAccountsController.cs",
+              "RelativeToolTip": "Assignment1-MVC\\Controllers\\SystemAccountsController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAA9wDoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T01:45:41.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_AccountLayout.cshtml",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\Shared\\_AccountLayout.cshtml",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\Views\\Shared\\_AccountLayout.cshtml",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\Shared\\_AccountLayout.cshtml",
+              "RelativeToolTip": "Assignment1-MVC\\Views\\Shared\\_AccountLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T14:49:26.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\Program.cs",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Program.cs",
+              "RelativeToolTip": "Assignment1-MVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T04:55:07.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Assignment1-MVC\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwv1kAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T14:47:30.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "Assignment1-MVC\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T23:57:03.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\NewsArticles\\Create.cshtml",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\Views\\NewsArticles\\Create.cshtml",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\NewsArticles\\Create.cshtml",
+              "RelativeToolTip": "Assignment1-MVC\\Views\\NewsArticles\\Create.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T00:38:00.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\Views\\Categories\\Delete.cshtml",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "Assignment1-MVC\\Views\\Categories\\Delete.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T00:38:44.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "Assignment1-MVC\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T00:40:44.067Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Assignment1-MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAwwBcAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T05:04:06.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\SystemAccounts\\Create.cshtml",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\Views\\SystemAccounts\\Create.cshtml",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\SystemAccounts\\Create.cshtml",
+              "RelativeToolTip": "Assignment1-MVC\\Views\\SystemAccounts\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T00:46:22.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\Tags\\Create.cshtml",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\Views\\Tags\\Create.cshtml",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\Tags\\Create.cshtml",
+              "RelativeToolTip": "Assignment1-MVC\\Views\\Tags\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T00:46:25.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SystemAccount.cs",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Models\\SystemAccount.cs",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\Models\\SystemAccount.cs",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Models\\SystemAccount.cs",
+              "RelativeToolTip": "Assignment1-MVC\\Models\\SystemAccount.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAIAwwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T14:20:27.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Assignment1-MVC\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwDwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T01:35:50.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\NewsArticles\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\Views\\NewsArticles\\Edit.cshtml",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\NewsArticles\\Edit.cshtml",
+              "RelativeToolTip": "Assignment1-MVC\\Views\\NewsArticles\\Edit.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADsAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T14:04:49.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Assignment1-MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T14:17:28.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TagsController.cs",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Controllers\\TagsController.cs",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\Controllers\\TagsController.cs",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Controllers\\TagsController.cs",
+              "RelativeToolTip": "Assignment1-MVC\\Controllers\\TagsController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwDsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T13:19:07.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Assignment1-MVC\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADAAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T15:20:19.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NewsArticle.cs",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Models\\NewsArticle.cs",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\Models\\NewsArticle.cs",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Models\\NewsArticle.cs",
+              "RelativeToolTip": "Assignment1-MVC\\Models\\NewsArticle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T14:24:55.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\NewsArticles\\Index.cshtml",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\Views\\NewsArticles\\Index.cshtml",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\NewsArticles\\Index.cshtml",
+              "RelativeToolTip": "Assignment1-MVC\\Views\\NewsArticles\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T12:34:57.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Assignment1-MVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T14:41:30.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\SystemAccounts\\Index.cshtml",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\Views\\SystemAccounts\\Index.cshtml",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\SystemAccounts\\Index.cshtml",
+              "RelativeToolTip": "Assignment1-MVC\\Views\\SystemAccounts\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAB8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T09:33:26.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\Models\\Tag.cs",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Models\\Tag.cs",
+              "RelativeToolTip": "Assignment1-MVC\\Models\\Tag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T14:20:38.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Assignment1-MVC\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T14:48:09.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\Tags\\Index.cshtml",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\Views\\Tags\\Index.cshtml",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\Tags\\Index.cshtml",
+              "RelativeToolTip": "Assignment1-MVC\\Views\\Tags\\Index.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAIAwwCYAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T15:15:25.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\SystemAccounts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\Views\\SystemAccounts\\Edit.cshtml",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\SystemAccounts\\Edit.cshtml",
+              "RelativeToolTip": "Assignment1-MVC\\Views\\SystemAccounts\\Edit.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T03:07:56.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FunewsManagementContext.cs",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Models\\FunewsManagementContext.cs",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\Models\\FunewsManagementContext.cs",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Models\\FunewsManagementContext.cs",
+              "RelativeToolTip": "Assignment1-MVC\\Models\\FunewsManagementContext.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAwGYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T04:54:06.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\NewsArticles\\Details.cshtml",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\Views\\NewsArticles\\Details.cshtml",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\NewsArticles\\Details.cshtml",
+              "RelativeToolTip": "Assignment1-MVC\\Views\\NewsArticles\\Details.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAHQAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T13:56:23.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Assignment1-MVC\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T03:40:47.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Assignment1-MVC\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-23T02:50:16.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Assignment1-MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T13:35:41.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "Assignment1-MVC\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T14:36:59.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "Assignment1-MVC\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T14:38:37.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Assignment1-MVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T04:10:28.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Assignment1-MVC\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T05:06:24.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Assignment1-MVC.csproj",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Assignment1-MVC.csproj",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\Assignment1-MVC.csproj",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Assignment1-MVC.csproj",
+              "RelativeToolTip": "Assignment1-MVC\\Assignment1-MVC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-19T04:23:45.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Assignment1-MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T14:16:15.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Assignment1-MVC\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T14:17:14.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Assignment1-MVC\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T13:37:43.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Assignment1-MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T05:06:22.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Assignment1-MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Assignment1-MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Assignment1-MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T05:09:01.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-19T13:50:05.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Slot8-Demo1Mvc\\appsettings.json",
+              "RelativeDocumentMoniker": "Slot8-Demo1Mvc\\appsettings.json",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Slot8-Demo1Mvc\\appsettings.json",
+              "RelativeToolTip": "Slot8-Demo1Mvc\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-14T01:46:53.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Slot8-Demo1Mvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Slot8-Demo1Mvc\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Slot8-Demo1Mvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Slot8-Demo1Mvc\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T01:46:33.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Slot5-TAPAsync\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Slot5-TAPAsync\\MainWindow.xaml",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Slot5-TAPAsync\\MainWindow.xaml",
+              "RelativeToolTip": "Slot5-TAPAsync\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-05T03:42:52.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Slot5-TAPAsync\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Slot5-TAPAsync\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Slot5-TAPAsync\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Slot5-TAPAsync\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAwwDcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T03:42:50.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Slot5-DemoAsync\\Program.cs",
+              "RelativeDocumentMoniker": "Slot5-DemoAsync\\Program.cs",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Slot5-DemoAsync\\Program.cs",
+              "RelativeToolTip": "Slot5-DemoAsync\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAmwD8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T03:39:12.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Slot5-PLINQ\\Program.cs",
+              "RelativeDocumentMoniker": "Slot5-PLINQ\\Program.cs",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Slot5-PLINQ\\Program.cs",
+              "RelativeToolTip": "Slot5-PLINQ\\Program.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAIwIcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T03:15:19.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Lab1-ServerApp\\Program.cs",
+              "RelativeDocumentMoniker": "Lab1-ServerApp\\Program.cs",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Lab1-ServerApp\\Program.cs",
+              "RelativeToolTip": "Lab1-ServerApp\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAwwBQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T00:51:59.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Lab1-ServerApp.csproj",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Lab1-ServerApp\\Lab1-ServerApp.csproj",
+              "RelativeDocumentMoniker": "Lab1-ServerApp\\Lab1-ServerApp.csproj",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Lab1-ServerApp\\Lab1-ServerApp.csproj",
+              "RelativeToolTip": "Lab1-ServerApp\\Lab1-ServerApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-17T00:51:56.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Slot1-ServerApp.csproj",
+              "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\ServerApp\\Slot1-ServerApp.csproj",
+              "RelativeDocumentMoniker": "ServerApp\\Slot1-ServerApp.csproj",
+              "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\ServerApp\\Slot1-ServerApp.csproj",
+              "RelativeToolTip": "ServerApp\\Slot1-ServerApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-17T00:51:26.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Slot3-AsynchronousDemo\\Program.cs",
               "RelativeDocumentMoniker": "Slot3-AsynchronousDemo\\Program.cs",
@@ -95,12 +921,11 @@
               "RelativeToolTip": "Slot3-AsynchronousDemo\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T14:08:50.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T14:08:50.801Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 55,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\UDPClientApp\\Program.cs",
               "RelativeDocumentMoniker": "UDPClientApp\\Program.cs",
@@ -108,12 +933,11 @@
               "RelativeToolTip": "UDPClientApp\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T13:34:59.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T13:34:59.778Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 56,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Slot1-DNSDemo\\Program.cs",
               "RelativeDocumentMoniker": "Slot1-DNSDemo\\Program.cs",
@@ -121,12 +945,11 @@
               "RelativeToolTip": "Slot1-DNSDemo\\Program.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAgwCIAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T13:32:34.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T13:32:34.677Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 54,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\TaskDemo\\Program.cs",
               "RelativeDocumentMoniker": "TaskDemo\\Program.cs",
@@ -134,12 +957,11 @@
               "RelativeToolTip": "TaskDemo\\Program.cs",
               "ViewState": "AQIAAIMAAAAAAAAAAAAAAKYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T04:27:42.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T04:27:42.074Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 58,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Lab2-WpfApp\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Lab2-WpfApp\\MainWindow.xaml.cs",
@@ -147,36 +969,33 @@
               "RelativeToolTip": "Lab2-WpfApp\\MainWindow.xaml.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T13:30:37.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T13:30:37.678Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 60,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Lab2-WpfApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Lab2-WpfApp\\MainWindow.xaml",
               "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Lab2-WpfApp\\MainWindow.xaml",
               "RelativeToolTip": "Lab2-WpfApp\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-16T13:30:06.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T13:30:06.582Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 59,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Slot1-HttpClientDemo\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Slot1-HttpClientDemo\\MainWindow.xaml",
               "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Slot1-HttpClientDemo\\MainWindow.xaml",
               "RelativeToolTip": "Slot1-HttpClientDemo\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-16T13:29:05.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T13:29:05.624Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 57,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Slot1-HttpClientDemo\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Slot1-HttpClientDemo\\MainWindow.xaml.cs",
@@ -184,12 +1003,11 @@
               "RelativeToolTip": "Slot1-HttpClientDemo\\MainWindow.xaml.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAgwCwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T13:29:03.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T13:29:03.814Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 61,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Slot1-WebRequestAndWebResponseDemo\\Program.cs",
               "RelativeDocumentMoniker": "Slot1-WebRequestAndWebResponseDemo\\Program.cs",
@@ -197,25 +1015,23 @@
               "RelativeToolTip": "Slot1-WebRequestAndWebResponseDemo\\Program.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAwwCsAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T13:22:54.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T13:22:54.297Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 51,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\ServerApp\\Program.cs",
               "RelativeDocumentMoniker": "ServerApp\\Program.cs",
               "ToolTip": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\ServerApp\\Program.cs",
               "RelativeToolTip": "ServerApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T13:19:56.892Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T13:19:56.892Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 62,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\KyHoc\\K7\\PRN222\\New folder\\prn222\\DemoTcpService\\Slot1-URIDemo\\Program.cs",
               "RelativeDocumentMoniker": "Slot1-URIDemo\\Program.cs",
@@ -223,13 +1039,12 @@
               "RelativeToolTip": "Slot1-URIDemo\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T13:15:36.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T13:15:36.204Z"
             }
           ]
         },
         {
-          "DockedWidth": 36,
+          "DockedWidth": 12,
           "SelectedChildIndex": -1,
           "Children": [
             {

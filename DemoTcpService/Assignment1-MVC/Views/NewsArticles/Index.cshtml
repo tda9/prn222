@@ -1,0 +1,108 @@
+﻿@model IEnumerable<Assignment1_MVC.Models.NewsArticle>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 style="font-family: serif">News</h1>
+@if(Context.Request.Cookies["Role"] == "1"){//0: admin
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+    <table class="table table-hover table-bordered align-middle">
+        <thead class="table-info text-center">
+            <tr>
+                <th>@Html.DisplayNameFor(model => model.NewsTitle)</th>
+                <th>@Html.DisplayNameFor(model => model.Headline)</th>
+                <th>@Html.DisplayNameFor(model => model.CreatedDate)</th>
+                <th>@Html.DisplayNameFor(model => model.NewsStatus)</th>
+                <th>@Html.DisplayNameFor(model => model.UpdatedById)</th>
+                <th>@Html.DisplayNameFor(model => model.ModifiedDate)</th>
+                <th>@Html.DisplayNameFor(model => model.Category)</th>
+                <th>@Html.DisplayNameFor(model => model.CreatedBy)</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.NewsTitle)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Headline)</td>
+                    <td>@item.CreatedDate</td>
+                    <td>@Html.DisplayFor(modelItem => item.NewsStatus)</td>
+                    <td>@Html.DisplayFor(modelItem => item.UpdatedById)</td>
+                    <td>@item.ModifiedDate?.ToString("yyyy-MM-dd")</td>
+                    <td>@Html.DisplayFor(modelItem => item.Category.CategoryId)</td>
+                    <td>@Html.DisplayFor(modelItem => item.CreatedBy.AccountId)</td>
+                    <td class="text-center">
+                        <div class="gap-2 justify-content-center">
+                            <a asp-action="Edit" asp-route-id="@item.NewsArticleId" class="btn btn-sm btn-primary w-100">
+                                <i class="bi bi-pencil"></i> Edit
+                            </a>
+                            <a asp-action="Details" asp-route-id="@item.NewsArticleId" class="btn btn-sm btn-success w-100">
+                                <i class="bi bi-eye"></i> Details
+                            </a>
+                            <a asp-action="Delete" asp-route-id="@item.NewsArticleId" class="btn btn-sm btn-danger w-100">
+                                <i class="bi bi-trash"></i> Delete
+                            </a>
+                        </div>
+                    </td>
+                </tr>
+            }
+    </tbody>
+</table>
+}
+else
+{
+    @foreach (var item in Model)
+    {
+        <div class="row mb-4">
+            <div class="col-12">
+                <div class="card shadow p-3t">
+                    <div class="d-flex flex-row">
+                        <!-- Left Section -->
+                        <div class="col-md-4 bg-light p-3">
+                            <h3 class="bg-info p-2 text-center text-white rounded">
+                                @Html.DisplayFor(modelItem => item.NewsTitle)
+                            </h3>
+                            <ul class="list-unstyled">
+                                <li><strong>Src:</strong> @Html.DisplayFor(modelItem => item.NewsSource)</li>
+                                <li><strong>Category:</strong> @Html.DisplayFor(modelItem => item.Category.CategoryName)</li>
+                            </ul>
+                            <!-- Tags Section -->
+                            <div>
+                                <strong>Tags</strong>
+                                <div class="d-flex flex-wrap">
+                                    @foreach (var i in item.Tags)
+                                    {
+                                        <a asp-action="Index" asp-route-tag="@i.TagName" class="bg-primary m-1 p-1 text-white rounded-3">
+                                            @Html.DisplayFor(tag => i.TagName)
+                                        </a>
+                                    }
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Right Section -->
+                        <div class="col-md-8 bg-light p-4">
+                            <h4>
+                                <a asp-action="Details" asp-route-id="@item.NewsArticleId" class="text-dark">
+                                    @Html.DisplayFor(modelItem => item.Headline)
+                                </a>
+                            </h4>
+                            <p>@Html.DisplayFor(modelItem => item.NewsContent)</p>
+                            <div>
+                                <strong class="p-1 bg-info text-white rounded-pill d-inline-block">
+                                    @Html.DisplayFor(modelItem => item.CreatedDate) - @Html.DisplayFor(modelItem => item.CreatedBy.AccountName)
+                                </strong>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+}
